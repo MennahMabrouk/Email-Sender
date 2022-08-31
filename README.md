@@ -3,7 +3,7 @@ Making an email sender can help you decrease the time you take to access your em
 It is a simple and small Project to train your python begginer skills.
 
 *Things to Know:*
-#Frist:#
+<font size=2> Frist:</font>
 
 SSL stands for Secure Sockets Layer and is designed to create secure connection between client and server. 
 Secure means that connection is encrypted and therefore protected from eavesdropping. It also allows to validate server identity.
