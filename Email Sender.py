@@ -1,16 +1,20 @@
 #Email Sender
 
 from email.message import EmailMessage
-#Library
+#Needed Library
 import ssl
 import smtplib
-email_sender = '2min0min19@gmail.com'
-email_password = 'qgosqhewdxuoyate'
-email_recevier = 'fiyor89797@lurenwu.com'
+
+#Put your E-mail
+email_sender = "" 
+#Put your Generated Password
+email_password = ""
+#Put Other E-mail
+email_recevier = ""
 
 
-subject = "Friends"
-body = "Love you my friend"
+subject = "Friends" #This is an e.g write what you want
+body = "Love you my friend" #This is an e.g write what you want
 
 emailmessage = EmailMessage()
 emailmessage['From'] = email_sender
