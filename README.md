@@ -4,25 +4,29 @@ It is a simple and small Project to train your python begginer skills.
 
 *Things to Know:*
 
-<font size=5> Frist:</font>
+ @@Frist:
 
-SSL stands for Secure Sockets Layer and is designed to create secure connection between client and server. 
+1. SSL stands for Secure Sockets Layer and is designed to create secure connection between client and server. 
 Secure means that connection is encrypted and therefore protected from eavesdropping. It also allows to validate server identity.
 For more details:
 https://wiki.python.org/moin/SSL
 
-
-The smtplib module defines an SMTP client session object that can be used to 
+2. The smtplib module defines an SMTP client session object that can be used to 
 send mail to any internet machine with an SMTP or ESMTP listener daemon.
 For more details:
 https://docs.python.org/3/library/smtplib.html
 
-Second:
-1. Turn on 2-Step Varification as shown in the screenshot
+@@Second:
 
+1. Turn on 2-Step Varification as shown in the screenshot
 ![Screenshot 2022](https://user-images.githubusercontent.com/101124995/187748279-8a06cc5a-84f9-4ad1-a045-25585e232317.png)
 
 2. Generate a Password https://www.youtube.com/watch?v=0zVzFadvEYk
+
+
+
+
+
 
 
 
